@@ -1,1 +1,1 @@
-# Welcome to the {project} documentation
+# Welcome to the RISC V Core Hardware Verification documentation
